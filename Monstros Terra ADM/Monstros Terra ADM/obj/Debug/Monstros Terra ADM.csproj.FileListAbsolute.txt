@@ -1,0 +1,12 @@
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros Terra ADM.csproj.GenerateResource.Cache
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\bin\Debug\Monstros Terra ADM.exe.config
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\bin\Debug\Monstros Terra ADM.exe
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\bin\Debug\Monstros Terra ADM.pdb
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros_Terra_ADM.Properties.Resources.resources
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros Terra ADM.exe
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros Terra ADM.pdb
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros_Terra_ADM.MTADMMenu.resources
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros Terra ADM.csprojResolveAssemblyReference.cache
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros_Terra_ADM.AddArmaForm.resources
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros_Terra_ADM.AddRacaForm.resources
+D:\PROGRAMAÇÃO\PROJETOS C#\Monstros Terra ADM\Monstros Terra ADM\obj\Debug\Monstros_Terra_ADM.AddPersonagemForm.resources
